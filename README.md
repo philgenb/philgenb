@@ -27,7 +27,7 @@
 ---
 
 ### 🚀 Current & Recent Projects
-- 🔍 [VisitorInsights](https://github.com/philgenb/VisitorInsights) - Accessible ML-Based Visitor Information Forecasting Tool for Museums
+- 🔍 [VisitorInsights](https://www.philgen.de/projects/visitorinsights) - Accessible ML-Based Visitor Information Forecasting Tool for Museums
 - ⏳ [Intuitive Time Tracking](https://github.com/intuitive-robots/pse-ss24-timetrack) – Web application to simplify time tracking for research assistants.
 - 🌍 [Portfolio Website](https://philgen.de) - Showcasing my latest work.
 
