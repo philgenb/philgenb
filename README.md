@@ -8,9 +8,10 @@
 ---
 
 ### 💡 About Me
-- 🎓 CS student @ KIT with experience in Full-Stack Development & Machine Learning.
-- 🛠 Passionate about building **user-focused, accessible & data-driven web applications**.
-- 🌱 Writing my **bachelor's thesis on ML-based visitor predictions and accessible data visualization (HCI & Accessibility)** .
+- 🎓 CS student @ KIT with experience in Full-Stack Development & Machine Learning.  
+- 🛠 Passionate about building **user-focused, accessible & data-driven web applications**.  
+- ✅ Completed my **bachelor's thesis** on ML-based visitor predictions and accessible data visualization (HCI & Accessibility).  
+- 💼 Recently finished a **Software Development Engineer Internship at AWS**.  
 
 ---
 
@@ -27,6 +28,7 @@
 ---
 
 ### 🚀 Current & Recent Projects
+- ✈️ [Farewise](https://farewise.de) – Web app to discover cheap flights with flexible search, price comparisons, and category-based recommendations.  
 - 🔍 [VisitorInsights](https://www.philgen.de/projects/visitorinsights) - Accessible ML-Based Visitor Information Forecasting Tool for Museums
 - ⏳ [Intuitive Time Tracking](https://github.com/intuitive-robots/pse-ss24-timetrack) – Web application to simplify time tracking for research assistants.
 - 🌍 [Portfolio Website](https://philgen.de) - Showcasing my latest work.
